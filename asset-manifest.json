@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/test-webcomponent/static/js/main.a1192d5a.js",
+    "index.html": "/test-webcomponent/index.html",
+    "main.a1192d5a.js.map": "/test-webcomponent/static/js/main.a1192d5a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a1192d5a.js"
+  ]
+}
